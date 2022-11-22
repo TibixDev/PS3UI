@@ -326,7 +326,7 @@ function down() {
 }
 
 body {
-    background: url('/ico/b_HD.jpg');
+    /*background: url('/ico/b_HD.jpg')*/;
     /*background: url('/res/ps3.mp4');*/
     color: rgb(200, 200, 200);
     @apply text-xl overflow-hidden;
